@@ -1,6 +1,6 @@
 # Spigot-Server-Template
 Downloadable template to start your own spigot server in just a few clicks! <br />
-If you are a lazy reader, here is a YouTube video to watch: (link here)
+If you are a lazy reader, here is a YouTube video to watch: https://youtu.be/Tzg573IHLdE
 1. Download spigot jar from here: https://getbukkit.org/download/spigot
 Make sure to download the one corresponding to
 your Minecraft version, not Java
