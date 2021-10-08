@@ -15,4 +15,6 @@ PAUSE
 6. The console, or command prompt allows you ti view all activity in the server. You can op yourself using it
 7. In the logs folder, you can see previous console "saves"
 8. To join your world, go to Minecraft multiplayer and type "localhost" in the ip section
-9. If you are hosting in another pc ON THE SAME NETWORK then type the ip of the pc hosting the server in the server ip section.
+9. If you are hosting in another pc ON THE SAME NETWORK then type the ip of the pc hosting the server in the server ip section. 
+10. You can use the command prompt to op yourself using op (player name) command and run other commands 
+11. You can add plugins in the form of jar files inside the plugins folder
