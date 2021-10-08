@@ -5,7 +5,7 @@ If you are a lazy reader, here is a YouTube video to watch: (link here)
 Make sure to download the one corresponding to
 your Minecraft version, not Java
 2. Create a new txt file named run.bat and paste this inside: <br />
-java -Xmx2048M -Xms2048M -jar (name of spigot jar).jar nogui
+java -Xmx2048M -Xms2048M -jar (name of spigot jar).jar nogui <br />
 PAUSE <br />
 (2040m means the server will use a max of 2040 mb of ram)<br />
 3. Double click the run.bat and agree to the eula 
