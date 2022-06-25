@@ -7,8 +7,8 @@ your Minecraft version, not Java
 2. Create a new txt file named run.bat and paste this inside: <br />
 java -Xmx2048M -Xms2048M -jar (name of spigot jar).jar nogui <br />
 PAUSE <br />
-(2040m means the server will use a max of 2040 mb of ram)<br />
-3. Double click the run.bat and agree to the eula 
+(2048m means the server will use a max of 2048 mb of ram)<br />
+3. Double click the run.bat and agree to the eula (open eula.txt and change to eula=true)
 3. There should also be a server.properties file. Open it with notepad and configure your server to your liking 
 4. Run the run.bat again. Now it should launch the server.
 5. The plugins file is where you put plugins in the form of .jar files
